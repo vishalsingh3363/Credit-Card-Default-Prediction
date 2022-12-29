@@ -1,6 +1,4 @@
-APPlication url link: https://creditcard-default-ml-app.herokuapp.com/
 # Credit-Card-Default-Prediction
-This is my second machine learning project.
 ```
 Financial threats are displaying a trend about the credit risk of commercial banks as the
 incredible improvement in the financial industry has arisen. In this way, one of the
@@ -74,10 +72,4 @@ conda activate venv
 pip install -r requirements.txt
 ```
 
-```
-To setup CI/CD pipeline in heroku we need 3 information
-
-HEROKU_EMAIL = <>
-HEROKU_API_KEY = <>
-HEROKU_APP_NAME = creditcard-default-ml-app
 ```
